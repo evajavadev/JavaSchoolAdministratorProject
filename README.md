@@ -6,5 +6,5 @@ A fun project 🦉 with scrum stories
 
 ## Description
 
-On its way
+On its way...
 
