@@ -1,6 +1,6 @@
 # The Java School Administrator Project
 
-A fun project 🦉 with scrum stories
+A fun good project 🦉 with scrum stories
 
 <br>
 
